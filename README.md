@@ -35,7 +35,6 @@ env.py
 target_metadata = Base.metadata
 ```
 
-Тепер створимо міграцію на табличку Резалтc з моделей, яка створиться оскільки в ``app.py`` імпортовано клас Results
 
 ```alembic revision --autogenerate -m "Nazwa migraciji"```
 
