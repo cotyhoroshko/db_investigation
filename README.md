@@ -40,7 +40,6 @@ target_metadata = Base.metadata
 
 Тепер у папці ```versions``` створилася перша міграція 
 
-![img_7.png](img_7.png)
 
 В міграції видно які колонки створюються
 
